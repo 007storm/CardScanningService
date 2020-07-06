@@ -69,7 +69,6 @@ flaskApp.py 文件放置在开源chineseocr代码根目录
 ```
 ## web服务启动
 ```
-进入开源chineseocr代码根目录
 python flaskApp.py ##默认18080端口号，可以设置任意端口
 ```
 ## 接口访问
